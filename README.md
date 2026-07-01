@@ -47,6 +47,13 @@ The best model achieved the following test performance:
 - mAP50: 86.8%
 - mAP50-95: 46.6%
 
+## Metrics
+<img width="1380" height="652" alt="image" src="https://github.com/user-attachments/assets/c255d9ca-dcb7-4850-91c9-751b16154b95" />
+
+## Confusion Matrix
+<img width="762" height="615" alt="image" src="https://github.com/user-attachments/assets/20641470-a99f-47c4-88cf-cd57fc822878" />
+
+
 ## How It Works
 
 1. Load the dataset through the API.
@@ -92,6 +99,9 @@ Open `plate-recognition.ipynb` in Google Colab and run the cells step by step.
 ## Example Output
 
 The model detects license plates in an image, draws bounding boxes around them, and extracts the plate text using OCR.
+<img width="942" height="647" alt="image" src="https://github.com/user-attachments/assets/51da0a8f-fdf9-40ac-8af6-bbf478f54c3e" />
+<img width="627" height="477" alt="image" src="https://github.com/user-attachments/assets/99772220-b0ac-4b74-ba57-6d41904685ad" />
+
 
 ## Future Improvements
 
