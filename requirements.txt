@@ -1,0 +1,12 @@
+ultralytics
+fast-plate-ocr
+opencv-python
+numpy
+matplotlib
+pandas
+scikit-learn
+PyYAML
+kaggle
+tqdm
+torch
+torchvision
